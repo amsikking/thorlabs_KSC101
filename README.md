@@ -4,3 +4,5 @@ Python device adaptor: Thorlabs KSC101 K-Cube solenoid controller.
 ## Quick start:
 - Download the Kinesis (or APT) software GUI from Thorlabs and run/check the controller/shutter...
 - To enable the COM port go to Device Manager, find Thorlabs 'APT USB device' (under USB controllers) and on the 'advanced' tab select the **'load VCP'** check box.
+
+![social_preview](https://github.com/amsikking/thorlabs_KSC101/blob/main/social_preview.png)
